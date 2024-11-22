@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shuai.21032\\Desktop\\WindowsFormsControlLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3A2539-AF7B-4B1B-9578-1C144AD1CDEC}|WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1.csproj|c:\\users\\shuai.21032\\desktop\\windowsformscontrollibrary1\\windowsformscontrollibrary1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE3A2539-AF7B-4B1B-9578-1C144AD1CDEC}|WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1.csproj|solutionrelative:windowsformscontrollibrary1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3A2539-AF7B-4B1B-9578-1C144AD1CDEC}|WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1.csproj|c:\\users\\shuai.21032\\desktop\\windowsformscontrollibrary1\\windowsformscontrollibrary1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3A2539-AF7B-4B1B-9578-1C144AD1CDEC}|WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1.csproj|solutionrelative:windowsformscontrollibrary1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsControlLibrary1\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1\\UserControl1.cs*",
+              "RelativeToolTip": "WindowsFormsControlLibrary1\\UserControl1.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:16:18.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsControlLibrary1\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\WindowsFormsControlLibrary1\\WindowsFormsControlLibrary1\\UserControl1.cs [Progettazione]*",
+              "RelativeToolTip": "WindowsFormsControlLibrary1\\UserControl1.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:16:03.132Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
