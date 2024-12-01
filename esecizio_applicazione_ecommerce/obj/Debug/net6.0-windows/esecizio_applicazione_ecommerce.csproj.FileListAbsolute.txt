@@ -1,0 +1,17 @@
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\bin\Debug\net6.0-windows\esecizio_applicazione_ecommerce.exe
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\bin\Debug\net6.0-windows\esecizio_applicazione_ecommerce.deps.json
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\bin\Debug\net6.0-windows\esecizio_applicazione_ecommerce.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\bin\Debug\net6.0-windows\esecizio_applicazione_ecommerce.dll
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\bin\Debug\net6.0-windows\esecizio_applicazione_ecommerce.pdb
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.Form1.resources
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.csproj.GenerateResource.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.sourcelink.json
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.dll
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\refint\esecizio_applicazione_ecommerce.dll
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.pdb
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\esecizio_applicazione_ecommerce.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-applicazione-e-commerce\esecizio_applicazione_ecommerce\obj\Debug\net6.0-windows\ref\esecizio_applicazione_ecommerce.dll
