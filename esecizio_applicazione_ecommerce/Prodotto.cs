@@ -1,54 +1,43 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace eCommerce
+﻿namespace eCommerce
 {
-    class Prodotto : IEquatable<Prodotto>
+    public class Prodotto
     {
         private string marca;
         private string modello;
-        private double prezzo;
+        private double prezzoBase;
         private string identificativo;
 
         public string Marca
         {
             get { return marca; }
         }
+
         public string Modello
         {
             get { return modello; }
         }
-        public double Prezzo
+
+        public virtual double Prezzo
         {
-            get { return prezzo; }
-            set { prezzo = value; }
+            get { return prezzoBase; }
         }
+
         public string Identificativo
         {
             get { return identificativo; }
         }
 
-        public Prodotto(string marca, string modello, string identificativo, double prezzo)
+        public double PrezzoBase
+        {
+            get { return prezzoBase; }
+        }
+
+        public Prodotto(string marca, string modello, string identificativo, double prezzoBase)
         {
             this.marca = marca;
             this.modello = modello;
             this.identificativo = identificativo;
-            this.prezzo = prezzo;
+            this.prezzoBase = prezzoBase;
         }
-        public bool Equals(Prodotto other)
-        {
-            if (other == null)
-                return false;
-
-            if (this == other)
-                return true;
-
-            return Identificativo.Equals(other.Identificativo);
-        }
-
-
     }
 }
